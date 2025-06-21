@@ -1,2 +1,7 @@
 # SMI-NBS
 The SMI-NbS Compendium is a comprehensive, open-access global dataset that documents 280 Nature-based Solutions (NbS) implemented across Small and Medium-sized Islands (SMI). 
+SMI are known for their rich biodiversity and cultural heritage but face socio-economic and environmental challenges, including climate change and sea-level rise, resource scarcity, economic vulnerability and limited capacity for adaptation. 
+The SMI-NbS compendium catalogues diverse NbS case studies from peer-reviewed and grey literature across ecosystem types and geographic regions. For each NbS, the location, societal challenges addressed, NbS category, ecosystem type, and alignment with the UN Sustainable Development Goals (SDGs) is provided. The SMI-NBS Compendium is intended to support further research toward the design of context-specific solutions for island settings through knowledge exchange. 
+Developed through a systematic literature review, the compendium ensures consistency and comparability across cases. It also highlights research gaps, such as the underrepresentation of socio-economic dimensions in NbS.
+By sharing real-world examples and their benefits, the SMI-NbS Compendium fosters knowledge exchange and supports sustainable development pathways for SMI communities.
+This repository provides open-access to the code used for the topic modelling and the barplot figure in the dedicated manuscript. 
